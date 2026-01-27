@@ -1,0 +1,7 @@
+﻿  factorial.c
+  main.c
+D:\School\T195ComputerScienceConversion_24fall\26Spring\SE1\Programs\Project1\main.c(60,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  music.c
+  Generating Code...
+D:\School\T195ComputerScienceConversion_24fall\26Spring\SE1\Programs\Project1\factorial.c(16,1): warning C4716: 'fac': must return a value
+  Project1.vcxproj -> D:\School\T195ComputerScienceConversion_24fall\26Spring\SE1\Programs\Project1\x64\Debug\Project1.exe

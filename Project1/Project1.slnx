@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Music_Assignment1/Music_Assignment1.vcxproj" Id="40b2a575-0fdf-4036-ad24-ec7afa69acda" />
+  <Project Path="../reverse/reverse.vcxproj" Id="aaa38751-12a2-43b4-9ed6-2ace36b4be79" />
+  <Project Path="Project1.vcxproj" Id="3aa87b2d-d5c6-4609-9053-84851b14fddb" />
+</Solution>
