@@ -1,0 +1,3 @@
+﻿  library.c
+D:\School\T195ComputerScienceConversion_24fall\26Spring\SE1\Programs\Lab2\library.c(24,4): warning C4098: 'insertNumbers': 'void' function returning a value
+  Lab2.vcxproj -> D:\School\T195ComputerScienceConversion_24fall\26Spring\SE1\Programs\Project1\x64\Debug\Lab2.exe
